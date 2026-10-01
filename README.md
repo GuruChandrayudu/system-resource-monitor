@@ -123,13 +123,13 @@ When a measurement reaches or exceeds its configured threshold, a warning appear
 
 The dashboard presents system metrics, usage charts, and recent resource readings in a single interface.
 
-![System Resource Monitor Live Dashboard](/system-resource-monitor/outputs/dashboard-screenshot.png)
+![System Resource Monitor Live Dashboard](dashboard-screenshot.png)
 
 ### Command-Line Monitoring Output
 
 The terminal interface displays timestamped measurements in a readable table and reports when monitoring stops.
 
-![System Resource Monitor Terminal Output](/system-resource-monitor/outputs/terminal-screenshot.png)
+![System Resource Monitor Terminal Output](terminal-screenshot.png)
 
 **Note:** Save the browser screenshot as `dashboard-screenshot.png` and the terminal screenshot as `terminal-screenshot.png` in the project root directory.
 
